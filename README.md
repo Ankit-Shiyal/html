@@ -29,6 +29,6 @@ without relying on styling or scripting.
 - To create a beginner-friendly **portfolio project**
 
 
-Preview Live: https://html-ysy1-gkhmo8wcf-ankit-shiyals-projects.vercel.app/
+Preview Live: [https://html-ysy1-gkhmo8wcf-ankit-shiyals-projects.vercel.app/](https://html-ysy1.vercel.app/)
 
 <img width="1920" height="5777" alt="HTML" src="https://github.com/user-attachments/assets/2437fcc3-9012-48c5-9c52-05b31f6b17d8" />
